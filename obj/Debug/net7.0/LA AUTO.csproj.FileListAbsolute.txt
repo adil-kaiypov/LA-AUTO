@@ -1,0 +1,14 @@
+C:\Users\Ислам\Desktop\LA AUTO\bin\Debug\net7.0\LA AUTO.exe
+C:\Users\Ислам\Desktop\LA AUTO\bin\Debug\net7.0\LA AUTO.deps.json
+C:\Users\Ислам\Desktop\LA AUTO\bin\Debug\net7.0\LA AUTO.runtimeconfig.json
+C:\Users\Ислам\Desktop\LA AUTO\bin\Debug\net7.0\LA AUTO.dll
+C:\Users\Ислам\Desktop\LA AUTO\bin\Debug\net7.0\LA AUTO.pdb
+C:\Users\Ислам\Desktop\LA AUTO\obj\Debug\net7.0\LA AUTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ислам\Desktop\LA AUTO\obj\Debug\net7.0\LA AUTO.AssemblyInfoInputs.cache
+C:\Users\Ислам\Desktop\LA AUTO\obj\Debug\net7.0\LA AUTO.AssemblyInfo.cs
+C:\Users\Ислам\Desktop\LA AUTO\obj\Debug\net7.0\LA AUTO.csproj.CoreCompileInputs.cache
+C:\Users\Ислам\Desktop\LA AUTO\obj\Debug\net7.0\LA AUTO.dll
+C:\Users\Ислам\Desktop\LA AUTO\obj\Debug\net7.0\refint\LA AUTO.dll
+C:\Users\Ислам\Desktop\LA AUTO\obj\Debug\net7.0\LA AUTO.pdb
+C:\Users\Ислам\Desktop\LA AUTO\obj\Debug\net7.0\LA AUTO.genruntimeconfig.cache
+C:\Users\Ислам\Desktop\LA AUTO\obj\Debug\net7.0\ref\LA AUTO.dll
